@@ -80,6 +80,7 @@
             wezterm
             devenv
             prismlauncher
+            qbittorrent
         ];
     };
 
